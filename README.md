@@ -1,4 +1,4 @@
-# four-card-feature-section
+# Testimonial Grid Section
 
 ## Table of contents
 
