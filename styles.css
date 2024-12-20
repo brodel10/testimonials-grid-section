@@ -108,7 +108,8 @@ body {
   .container {
     display: grid;
     place-content: center;
-    padding: 4rem;
+    padding: 6rem;
+    gap: 2rem;
 
     .user1 {
       grid-area: one;
